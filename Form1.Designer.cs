@@ -176,7 +176,7 @@ namespace WebHookTesting
             txtRequest.Name = "txtRequest";
             txtRequest.Size = new Size(944, 350);
             txtRequest.TabIndex = 0;
-            txtRequest.Text = "{\n  \"message\": \"Hello Webhook\"\n}";
+            txtRequest.Text = "Add message here";
             // 
             // grpResponse
             // 
